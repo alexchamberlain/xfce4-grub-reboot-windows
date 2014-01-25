@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=xfce4-grub-reboot-windows
+Comment=Reboot into Windows
+Exec=xfce4-grub-reboot-windows
+Icon=windows
+Terminal=false
+Categories=
